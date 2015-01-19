@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+The upstream remote is used to push local changes to a central repository, that may also be accessed by others.  This central repository helps coordinate changes from multiple users, and acts as a backup to any changes made on your local machine.
