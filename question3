@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a separate instance of an entire project. At its creation it is identical to the 'trunk' it came from, but any changes made stay within that branch. This is so that you can try something new in your code and not worry about potentially destroying everything you had already done in your master branch.
