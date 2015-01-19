@@ -1,2 +1,2 @@
-Explain what git clone does, in your own words.
+Git clone init's a local github repository, creates a remote to the already existing repository you are cloning, and then pulls that repository.
 
